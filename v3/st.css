@@ -1,0 +1,22 @@
+a.head {
+  margin: 2.5px;
+  padding: 10px 25px;
+  background: rgb(221, 221, 221);
+  text-decoration: none;
+  color: rgb(0, 0, 0);
+  font-weight: 700;
+  font-family: consolas;
+  border-radius: 3px;
+}
+input[type='text'] {
+  border: 3px solid rgba(27, 120, 241, 0.402);
+  border-radius: 3px;
+  padding: 5px;
+  margin-bottom: 10px;
+}
+nav {
+  margin-bottom: 30px;
+}
+table {
+  padding: 6px;
+}
